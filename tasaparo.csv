@@ -1,0 +1,27 @@
+﻿"Año";"Periodo";"Parámetro";"Tasa de paro"
+"2022";"Trimestre 2";"De 16 a 19 años";"48,7"
+"2022";"Trimestre 2";"De 20 a 24 años";"24,1"
+"2022";"Trimestre 2";"De 25 a 29 años";"14,28"
+"2022";"Trimestre 2";"De 30 a 34 años";"12,24"
+"2022";"Trimestre 2";"De 35 a 39 años";"11,02"
+"2022";"Trimestre 2";"De 40 a 44 años";"9,91"
+"2022";"Trimestre 2";"De 45 a 49 años";"9,4"
+"2022";"Trimestre 2";"De 50 a 54 años";"11,61"
+"2022";"Trimestre 2";"De 55 a 59 años";"11,72"
+"2022";"Trimestre 2";"De 60 a 64 años";"12,79"
+"2022";"Trimestre 2";"De 65 a 69 años";"5,99"
+"2022";"Trimestre 2";"De 70 y más años";"5,39"
+;;
+;;
+"Métrica":"Tasa de paro"
+"Fuente":"INE"
+"Clasificación":""
+"Unidad":"Número de personas"
+"Escala":"Unidades"
+"EscalaFactorPotencia10":"0"
+"SonDatosNumericos":"True"
+;;
+;;
+"Url":"https://www.epdata.es/tasas-paro-grupos-edad/50afb7d0-d7f7-4445-bedf-4d1273849860"
+"Titulo":"Tasas de paro en España por grupos de edad"
+"Subtitulo":""
