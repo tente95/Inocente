@@ -1,0 +1,22 @@
+[
+ {
+  "Column1": "Cluster A",
+  "Espana": 2325,
+  "Francia": 7408
+ },
+ {
+  "Column1": "Cluster B",
+  "Espana": 112,
+  "Francia": 615
+ },
+ {
+  "Column1": "Cluster C",
+  "Espana": 52,
+  "Francia": 89
+ },
+ {
+  "Column1": "Cluster D",
+  "Espana": 19,
+  "Francia": 28
+ }
+]
